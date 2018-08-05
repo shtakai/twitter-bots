@@ -1,6 +1,8 @@
 Twitter Bots
 ============
 
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/twitter-bots.svg)](https://www.guardrails.io)
+
 This is a development repository for Twitter bots. I've incldued a few examples to get you started.
 
 * save_hashtag
